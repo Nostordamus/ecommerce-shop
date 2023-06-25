@@ -11,7 +11,7 @@ Visual Studio 2019 (or any compatible version)
 Getting Started
 To get started with the ecommerce store, follow these steps:
 
-Clone the repository: git clone [https://github.com/your-username/ecommerce-store.git](https://github.com/Nostordamus/ecommerce-shop.git)
+Clone the repository: git clone this repository
 Open the solution in Visual Studio.
 Build the solution to restore dependencies.
 Make sure you have connection string set up correctly both in .DataAccess.SQL and .WebUi projects to connect to your local enviroment.
